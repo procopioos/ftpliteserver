@@ -6,6 +6,8 @@ Don't panic: here's a step to step guide.<br>
 Download the code from GitHub or, if you're one of those terminal guys,<br>just use git:
 `git clone https://github.com/famicomm/ftpliteserver.git`
 
+If you're one of those easy guys, I made an executable for you!
+
 ## How do I use it?
 Great! If you managed to arrive here, I suppose you already downloaded it. Great job!<br>
 On Windows, you can start the server just by double-clicking on the Python file.<br>
