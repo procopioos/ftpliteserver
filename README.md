@@ -15,9 +15,11 @@ Again, if you're one of those terminal guys, it's simple:<br>
 Right, another thing: if you're on Windows, remember to accept any Windows Firewall notice, <br>else you won't be able to connect to the server
 
 ## Oh no! It doesn't launch!
-Weird, make sure the dependencies are installed (even though ftplib should be included with Python)
+Right, another thing: I forgot to say that you need to install the dependencies. <br>
+My fault, you're right. There:
 
 ## Dependencies
 * ftplib (It should be already preinstalled in Python. if it isn't, `pip install ftplib`)
+* pyftpdlib (`pip install ftplib`)
 
 There! You're all set to configure and install your very own FTP Server.
