@@ -25,3 +25,6 @@ My fault, you're right. There:
 * pyftpdlib (`pip install pyftpdlib`)
 
 There! You're all set to configure and install your very own FTP Server.
+
+## What about TLS Support?
+Don't worry, it's in the works. Anyways, you'll have to use your own TLS certificate and private key.
