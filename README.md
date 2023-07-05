@@ -1,5 +1,5 @@
 # FTPLite Server
-A lite FTP Server made in Python. It includes a simple UI.
+A lite FTP Server made in Python3. It includes a simple UI.
 
 ## How to install:
 Don't panic: here's a step to step guide.<br>
@@ -15,8 +15,7 @@ Again, if you're one of those terminal guys, it's simple:<br>
 Right, another thing: if you're on Windows, remember to accept any Windows Firewall notice, <br>else you won't be able to connect to the server
 
 ## Oh no! It doesn't launch!
-Right, I forgot to say you need to install the dependencies.<br>
-My fault, you're right.
+Awkward, make sure the dependencies are installed (even though ftplib should be included with Python)
 
 ## Dependencies
 * ftplib (It should be already preinstalled in Python. if it isn't, `pip install ftplib`)
