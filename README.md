@@ -20,6 +20,6 @@ My fault, you're right. There:
 
 ## Dependencies
 * ftplib (It should be already preinstalled in Python. if it isn't, `pip install ftplib`)
-* pyftpdlib (`pip install ftplib`)
+* pyftpdlib (`pip install pyftpdlib`)
 
 There! You're all set to configure and install your very own FTP Server.
