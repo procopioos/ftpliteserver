@@ -28,3 +28,6 @@ There! You're all set to configure and install your very own FTP Server.
 
 ## What about TLS Support?
 Don't worry, it's in the works. Anyways, you'll have to use your own TLS certificate and private key.
+
+### What's TLS?
+Think of it as an added security layer to (in this situation) your FTP server. Transport Layer Security is a protocol designed to provide communications security over a computer network. The protocol is widely used in many cases, like emails, messaging apps, voIP (Voice over IP) and HTTPS.  
